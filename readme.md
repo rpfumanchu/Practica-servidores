@@ -16,7 +16,7 @@
 
 - Si se accede al servidor web indicando la dirección IP del servidor en lugar del nombre de
   dominio, se deberá carga la práctica realizada en el módulo de React o React Avanzado (a
-  elección del almuno).
+  elección del alumno).
 
 ## URL disponibles:
 
@@ -37,7 +37,7 @@ http://ec2-100-26-97-7.compute-1.amazonaws.com/login
   - Email: rober@gmail.com
   - Password: 123123
 
-- ### Esta práctica de React usa el back que nos proporciono David, puedes probarla en esta url.
+- ### Esta práctica de React usa el back que nos proporcionó David, puedes probarla en esta url.
 
 http://100.26.97.7/api/swagger/#/adverts
 
